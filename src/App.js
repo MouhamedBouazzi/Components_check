@@ -1,7 +1,7 @@
 import "./App.css";
-import Adress from "./component/profile/Adress";
-import FullName from "./component/profile/FullName";
-import ProfilePic from "./component/profile/ProfilePic";
+import Adress from "./component/Profil/Adress";
+import FullName from "./component/Profil/FullName";
+import ProfilePic from "./component/Profil/ProfilePic";
 
 function App() {
   return (
